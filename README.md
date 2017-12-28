@@ -1,2 +1,8 @@
-# gram_schmidt_matlab
-# This repo contains a MATLAB implementation of the Gram-Schmidt orthogonalization algorithm, gram_schmidt.m
+
+#Root directory
+###gram_schmidt_matlab
+
+#Main file
+###gram_schmidt.m
+###MATLAB implementation of the stabilised Gram-Schmidt orthogonalization algorithm
+
