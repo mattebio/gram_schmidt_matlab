@@ -1,4 +1,3 @@
-
 #Root directory
 ###gram_schmidt_matlab
 
